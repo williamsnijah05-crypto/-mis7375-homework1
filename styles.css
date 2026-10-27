@@ -1,0 +1,31 @@
+/* Place your CSS styles in this file */
+body {background-color: rgb(216, 229, 229);
+  margin: 10px;  
+}  
+
+
+h1 {
+    border-style: outset;
+    border-color: rgb(35, 17, 107);
+    border-width: thick;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    color: rgb(25, 5, 46);
+    
+
+}
+p 
+   text-align: left;
+   input {
+    width: 10px;
+    border-color: rgba(15, 3, 42, 0);
+  
+}  
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Optional for vertical centering */
+}
+    
